@@ -11,3 +11,5 @@ The methods and also some of the CNN architecture I used here are based on [Face
 For try, you can download the framework from [here](https://github.com/zsoltpocsai/vse_training_fw/releases/latest).
 User guide can be found [here](docs). I didn't include the example dataset, but you can download the full size
 one from [Humpback Whale Identification Competition](https://www.kaggle.com/c/humpback-whale-identification).
+
+The triplet loss function implementation and everything else in the `loss` folder belong to TensorFlow. 
